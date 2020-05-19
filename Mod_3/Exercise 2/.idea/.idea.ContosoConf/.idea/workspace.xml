@@ -2,10 +2,26 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a20be31b-e7c3-4459-aeba-6d00e767364d" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../../../../Mod01/Democode/DemoWebSite - Complete/ContactUs - Complete.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../Mod01/Democode/DemoWebSite - Complete/ContactUs - Complete.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Exercise 1/ContosoConf/scripts/pages/schedule.js" beforeDir="false" afterPath="$PROJECT_DIR$/../Exercise 1/ContosoConf/scripts/pages/schedule.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ContosoConf/schedule.htm" beforeDir="false" afterPath="$PROJECT_DIR$/ContosoConf/schedule.htm" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ContosoConf/scripts/pages/schedule.js" beforeDir="false" afterPath="$PROJECT_DIR$/ContosoConf/scripts/pages/schedule.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Mod_2/WebApplication1/.vs/WebApplication1/v16/.suo" beforeDir="false" afterPath="$PROJECT_DIR$/../../Mod_2/WebApplication1/.vs/WebApplication1/v16/.suo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Mod_2/WebApplication1/WebApplication1/bin/WebApplication1.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../../Mod_2/WebApplication1/WebApplication1/bin/WebApplication1.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Mod_2/WebApplication1/WebApplication1/bin/WebApplication1.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../../Mod_2/WebApplication1/WebApplication1/bin/WebApplication1.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Mod_2/WebApplication1/WebApplication1/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../../Mod_2/WebApplication1/WebApplication1/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Mod_2/WebApplication1/WebApplication1/obj/Debug/WebApplication1.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../../Mod_2/WebApplication1/WebApplication1/obj/Debug/WebApplication1.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Mod_2/WebApplication1/WebApplication1/obj/Debug/WebApplication1.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../../Mod_2/WebApplication1/WebApplication1/obj/Debug/WebApplication1.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Mod_2/WebApplication1/WebApplication1/obj/Debug/WebApplication1.vbprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../../Mod_2/WebApplication1/WebApplication1/obj/Debug/WebApplication1.vbprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.ContosoConf/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.ContosoConf/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.ContosoConf/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.ContosoConf/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.ContosoConf/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.ContosoConf/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/config/applicationhost.config" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/config/applicationhost.config" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vs/ContosoConf/config/applicationhost.config" beforeDir="false" afterPath="$PROJECT_DIR$/.vs/ContosoConf/config/applicationhost.config" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vs/ContosoConf/v16/.suo" beforeDir="false" afterPath="$PROJECT_DIR$/.vs/ContosoConf/v16/.suo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vs/ContosoConf/v16/Server/sqlite3/storage.ide" beforeDir="false" afterPath="$PROJECT_DIR$/.vs/ContosoConf/v16/Server/sqlite3/storage.ide" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ContosoConf/bin/ContosoConf.dll" beforeDir="false" afterPath="$PROJECT_DIR$/ContosoConf/bin/ContosoConf.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ContosoConf/bin/ContosoConf.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/ContosoConf/bin/ContosoConf.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ContosoConf/obj/Debug/ContosoConf.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/ContosoConf/obj/Debug/ContosoConf.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ContosoConf/obj/Debug/ContosoConf.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/ContosoConf/obj/Debug/ContosoConf.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ContosoConf/obj/Debug/ContosoConf.dll" beforeDir="false" afterPath="$PROJECT_DIR$/ContosoConf/obj/Debug/ContosoConf.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ContosoConf/obj/Debug/ContosoConf.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/ContosoConf/obj/Debug/ContosoConf.pdb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -13,7 +29,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../../.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/ContosoConf/packages.config" root0="FORCE_HIGHLIGHTING" />
@@ -75,6 +91,7 @@
       <workItem from="1589696317045" duration="3972000" />
       <workItem from="1589700331938" duration="1342000" />
       <workItem from="1589702665152" duration="2447000" />
+      <workItem from="1589803518306" duration="649000" />
     </task>
     <servers />
   </component>
@@ -84,21 +101,21 @@
   <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
   <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
   <component name="WindowStateProjectService">
-    <state width="1237" height="163" key="GridCell.Tab.0.bottom" timestamp="1589705159406">
+    <state width="1237" height="163" key="GridCell.Tab.0.bottom" timestamp="1589826317921">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="163" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1589705159406" />
-    <state width="1237" height="163" key="GridCell.Tab.0.center" timestamp="1589705159406">
+    <state width="1237" height="163" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1589826317921" />
+    <state width="1237" height="163" key="GridCell.Tab.0.center" timestamp="1589826317921">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="163" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1589705159406" />
-    <state width="1237" height="163" key="GridCell.Tab.0.left" timestamp="1589705159405">
+    <state width="1237" height="163" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1589826317921" />
+    <state width="1237" height="163" key="GridCell.Tab.0.left" timestamp="1589826317920">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="163" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1589705159405" />
-    <state width="1237" height="163" key="GridCell.Tab.0.right" timestamp="1589705159406">
+    <state width="1237" height="163" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1589826317920" />
+    <state width="1237" height="163" key="GridCell.Tab.0.right" timestamp="1589826317921">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="163" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1589705159406" />
+    <state width="1237" height="163" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1589826317921" />
   </component>
 </project>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\FAMCS\ПРОГА\Git\JS-HTML-labs-Microsoft-Course\Mod_2\WebApplication1" t="IncludeFlat">
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="WebApplication1" t="IncludeRecursive">
+        <e p="about.html" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="index.html" t="Include" />
+        <e p="My Project" t="Include">
+          <e p="Application.Designer.vb" t="Include" />
+          <e p="Application.myapp" t="Include" />
+          <e p="AssemblyInfo.vb" t="Include" />
+          <e p="MyExtensions" t="Include">
+            <e p="MyWebExtension.vb" t="Include" />
+          </e>
+          <e p="Resources.Designer.vb" t="Include" />
+          <e p="Resources.resx" t="Include" />
+          <e p="Settings.Designer.vb" t="Include" />
+          <e p="Settings.settings" t="Include" />
+        </e>
+        <e p="obj" t="ExcludeRecursive" />
+        <e p="packages.config" t="Include" />
+        <e p="styles" t="Include">
+          <e p="images" t="Include">
+            <e p="speakers" t="Include">
+              <e p="april-meyer.jpg" t="Include" />
+              <e p="david-alexander.jpg" t="Include" />
+              <e p="mark-hanson.jpg" t="Include" />
+              <e p="melissa-kerr.jpg" t="Include" />
+            </e>
+            <e p="sponsors" t="Include">
+              <e p="sponsor1.png" t="Include" />
+              <e p="sponsor2.png" t="Include" />
+              <e p="sponsor3.png" t="Include" />
+              <e p="sponsor4.png" t="Include" />
+              <e p="sponsor5.png" t="Include" />
+            </e>
+          </e>
+          <e p="site.css" t="Include" />
+        </e>
+        <e p="Web.config" t="Include" />
+        <e p="Web.Debug.config" t="Include" />
+        <e p="Web.Release.config" t="Include" />
+        <e p="WebApplication1.vbproj" t="IncludeRecursive" />
+      </e>
+      <e p="WebApplication1.sln" t="IncludeFlat" />
+    </e>
+    <e p="C:\Users\HP Pavilion 14\.Rider2019.3\config\scratches" t="IncludeRecursive" />
+    <e p="C:\Users\HP Pavilion 14\.Rider2019.3\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\HP Pavilion 14\.Rider2019.3\system\resharper-host\local\Transient\ReSharperHost\v193\SolutionCaches\_WebApplication1.-642198083.00" t="ExcludeRecursive" />
+  </component>
+</project>

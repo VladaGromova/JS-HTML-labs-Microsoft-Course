@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ContentModelStore">
-    <e p="C:\FAMCS\ПРОГА\Git\20480-Programming-in-HTML5-with-JavaScript-and-CSS3\Allfiles\Mod03\Labfiles\Starter\Exercise 2" t="IncludeFlat">
+    <e p="C:\FAMCS\ПРОГА\Git\JS-HTML-labs-Microsoft-Course\Mod_3\Exercise 2" t="IncludeFlat">
       <e p="ContosoConf" t="IncludeRecursive">
         <e p="about.htm" t="Include" />
         <e p="bin" t="ExcludeRecursive" />
@@ -57,6 +57,6 @@
     </e>
     <e p="C:\Users\HP Pavilion 14\.Rider2019.3\config\scratches" t="IncludeRecursive" />
     <e p="C:\Users\HP Pavilion 14\.Rider2019.3\system\extResources" t="IncludeRecursive" />
-    <e p="C:\Users\HP Pavilion 14\.Rider2019.3\system\resharper-host\local\Transient\ReSharperHost\v193\SolutionCaches\_ContosoConf.-1793885359.00" t="ExcludeRecursive" />
+    <e p="C:\Users\HP Pavilion 14\.Rider2019.3\system\resharper-host\local\Transient\ReSharperHost\v193\SolutionCaches\_ContosoConf.967974793.00" t="ExcludeRecursive" />
   </component>
 </project>
