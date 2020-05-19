@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\FAMCS\ПРОГА\Git\20480-Programming-in-HTML5-with-JavaScript-and-CSS3\Allfiles\Mod04\Labfiles\Starter\Exercise 2" t="IncludeFlat">
+      <e p="ContosoConf" t="IncludeRecursive">
+        <e p="about.htm" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="ContosoConf.csproj" t="IncludeRecursive" />
+        <e p="Controllers" t="Include">
+          <e p="RegistrationController.cs" t="Include" />
+          <e p="ScheduleController.cs" t="Include" />
+        </e>
+        <e p="Global.asax" t="Include" />
+        <e p="Global.asax.cs" t="Include" />
+        <e p="images" t="Include">
+          <e p="speakers" t="Include">
+            <e p="april-meyer.jpg" t="Include" />
+            <e p="david-alexander.jpg" t="Include" />
+            <e p="mark-hanson.jpg" t="Include" />
+            <e p="melissa-kerr.jpg" t="Include" />
+          </e>
+          <e p="sponsors" t="Include">
+            <e p="sponsor1.png" t="Include" />
+            <e p="sponsor2.png" t="Include" />
+            <e p="sponsor3.png" t="Include" />
+            <e p="sponsor4.png" t="Include" />
+            <e p="sponsor5.png" t="Include" />
+          </e>
+        </e>
+        <e p="index.htm" t="Include" />
+        <e p="obj" t="ExcludeRecursive" />
+        <e p="packages.config" t="Include" />
+        <e p="Properties" t="Include">
+          <e p="AssemblyInfo.cs" t="Include" />
+        </e>
+        <e p="register.htm" t="Include" />
+        <e p="registered.htm" t="Include" />
+        <e p="schedule.htm" t="Include" />
+        <e p="scripts" t="Include">
+          <e p="pages" t="Include">
+            <e p="register.js" t="Include" />
+            <e p="schedule.js" t="Include" />
+          </e>
+        </e>
+        <e p="styles" t="Include">
+          <e p="pages" t="Include">
+            <e p="register.css" t="Include" />
+          </e>
+          <e p="site.css" t="Include" />
+        </e>
+        <e p="Views" t="Include">
+          <e p="Registration" t="Include">
+            <e p="Error.cshtml" t="Include" />
+          </e>
+          <e p="Web.config" t="Include" />
+        </e>
+        <e p="Web.config" t="Include" />
+        <e p="Web.Debug.config" t="Include" />
+        <e p="Web.Release.config" t="Include" />
+      </e>
+      <e p="ContosoConf.sln" t="IncludeFlat" />
+      <e p="packages" t="ExcludeRecursive" />
+    </e>
+    <e p="C:\Users\HP Pavilion 14\.Rider2019.3\config\scratches" t="IncludeRecursive" />
+    <e p="C:\Users\HP Pavilion 14\.Rider2019.3\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\HP Pavilion 14\.Rider2019.3\system\resharper-host\local\Transient\ReSharperHost\v193\SolutionCaches\_ContosoConf.800341458.00" t="ExcludeRecursive" />
+  </component>
+</project>
