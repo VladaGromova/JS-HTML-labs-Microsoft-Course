@@ -2,15 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c6e4ba5d-64ed-47a1-a936-c849c901aabb" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../../../../Mod01/Democode/DemoWebSite - Complete/ContactUs - Complete.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../Mod01/Democode/DemoWebSite - Complete/ContactUs - Complete.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../Mod03/Labfiles/Starter/Exercise 1/ContosoConf/scripts/pages/schedule.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../Mod03/Labfiles/Starter/Exercise 1/ContosoConf/scripts/pages/schedule.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../Mod03/Labfiles/Starter/Exercise 2/ContosoConf/schedule.htm" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../Mod03/Labfiles/Starter/Exercise 2/ContosoConf/schedule.htm" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../Mod03/Labfiles/Starter/Exercise 2/ContosoConf/scripts/pages/schedule.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../Mod03/Labfiles/Starter/Exercise 2/ContosoConf/scripts/pages/schedule.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../Mod04/Labfiles/Starter/Exercise 1/ContosoConf/register.htm" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../Mod04/Labfiles/Starter/Exercise 1/ContosoConf/register.htm" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../Mod04/Labfiles/Starter/Exercise 2/ContosoConf/scripts/pages/register.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../Mod04/Labfiles/Starter/Exercise 2/ContosoConf/scripts/pages/register.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../Mod04/Labfiles/Starter/Exercise 2/ContosoConf/styles/pages/register.css" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../Mod04/Labfiles/Starter/Exercise 2/ContosoConf/styles/pages/register.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Democode/fetchWeb/fetchWeb/Scripts/indexScript.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Democode/fetchWeb/fetchWeb/Scripts/indexScript.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ContosoConf/scripts/pages/schedule.js" beforeDir="false" afterPath="$PROJECT_DIR$/ContosoConf/scripts/pages/schedule.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.ContosoConf/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.ContosoConf/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.ContosoConf/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.ContosoConf/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.ContosoConf/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.ContosoConf/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/config/applicationhost.config" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/config/applicationhost.config" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ContosoConf/bin/ContosoConf.dll" beforeDir="false" afterPath="$PROJECT_DIR$/ContosoConf/bin/ContosoConf.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ContosoConf/bin/ContosoConf.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/ContosoConf/bin/ContosoConf.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ContosoConf/obj/Debug/ContosoConf.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/ContosoConf/obj/Debug/ContosoConf.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ContosoConf/obj/Debug/ContosoConf.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/ContosoConf/obj/Debug/ContosoConf.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ContosoConf/obj/Debug/ContosoConf.dll" beforeDir="false" afterPath="$PROJECT_DIR$/ContosoConf/obj/Debug/ContosoConf.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ContosoConf/obj/Debug/ContosoConf.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/ContosoConf/obj/Debug/ContosoConf.pdb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,7 +19,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../../.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -74,6 +75,7 @@
       <updated>1590077097348</updated>
       <workItem from="1590077099377" duration="4456000" />
       <workItem from="1590083938308" duration="407000" />
+      <workItem from="1590139420413" duration="628000" />
     </task>
     <servers />
   </component>
@@ -83,21 +85,21 @@
   <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
   <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
   <component name="WindowStateProjectService">
-    <state width="1237" height="163" key="GridCell.Tab.0.bottom" timestamp="1590084343805">
+    <state width="1237" height="163" key="GridCell.Tab.0.bottom" timestamp="1590140180205">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="163" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1590084343805" />
-    <state width="1237" height="163" key="GridCell.Tab.0.center" timestamp="1590084343805">
+    <state width="1237" height="163" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1590140180205" />
+    <state width="1237" height="163" key="GridCell.Tab.0.center" timestamp="1590140180205">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="163" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1590084343805" />
-    <state width="1237" height="163" key="GridCell.Tab.0.left" timestamp="1590084343804">
+    <state width="1237" height="163" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1590140180205" />
+    <state width="1237" height="163" key="GridCell.Tab.0.left" timestamp="1590140180205">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="163" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1590084343804" />
-    <state width="1237" height="163" key="GridCell.Tab.0.right" timestamp="1590084343805">
+    <state width="1237" height="163" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1590140180205" />
+    <state width="1237" height="163" key="GridCell.Tab.0.right" timestamp="1590140180205">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="163" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1590084343805" />
+    <state width="1237" height="163" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1590140180205" />
   </component>
 </project>
